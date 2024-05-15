@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efeb61ffb0a6d844fadedb349e907028, type: 3}
+  m_Name: Potato
+  m_EditorClassIdentifier: 
+  id: potato
+  category: vegetables
+  itemName: "\u041A\u0430\u0440\u0442\u043E\u0448\u043A\u0430"
+  countInBox: 10
+  boxCost: 3
+  origCost: 0.3
+  itemCost: 0.18
+  margin: 0
+  interest: 0
+  icon: {fileID: 21300000, guid: 2f0027f9681588940bd9c5c8b35e438a, type: 3}
+  boxesPrefab: {fileID: 1892562293155396099, guid: 9da15d3ada155914aa2354c991527956, type: 3}
+  itemPrefab: {fileID: 1446335141812463858, guid: b2afbda56ef0f9c4895c0a2ad8a5d406, type: 3}

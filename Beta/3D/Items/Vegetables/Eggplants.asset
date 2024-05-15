@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efeb61ffb0a6d844fadedb349e907028, type: 3}
+  m_Name: Eggplants
+  m_EditorClassIdentifier: 
+  id: eggplants
+  category: vegetables
+  itemName: "\u0411\u0430\u043A\u043B\u0430\u0436\u0430\u043D\u044B"
+  countInBox: 10
+  boxCost: 11
+  origCost: 1.1
+  itemCost: 1.1
+  margin: 0
+  interest: 0
+  icon: {fileID: 21300000, guid: eeace1f0d5073064bb9b88ac229b60a4, type: 3}
+  boxesPrefab: {fileID: 2214883025664651251, guid: 3b3c1856078ebb7419f7b85461f6c7fb, type: 3}
+  itemPrefab: {fileID: 4625199867503518196, guid: 8fa3d600979a19445812db8a01e86387, type: 3}

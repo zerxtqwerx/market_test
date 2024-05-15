@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efeb61ffb0a6d844fadedb349e907028, type: 3}
+  m_Name: Pumpkin
+  m_EditorClassIdentifier: 
+  id: pumpkin
+  category: vegetables
+  itemName: "\u0422\u044B\u043A\u0432\u044B"
+  countInBox: 4
+  boxCost: 15
+  origCost: 1.5
+  itemCost: 1.5
+  margin: 0
+  interest: 0
+  icon: {fileID: 21300000, guid: d7e6f812babff684c815049d1d72c24b, type: 3}
+  boxesPrefab: {fileID: 2956569539500269903, guid: 43f7c15651621934294d21091c5ab819, type: 3}
+  itemPrefab: {fileID: 4662502607199287555, guid: a0cf4bbf242b7fd47ac4a2b1681393ec, type: 3}
